@@ -2,7 +2,7 @@
 Module 18 Tableau Challenge
 
  Citi Bike Analysis
-Link to Tableau Public Workbook: 
+Link to Tableau Public Workbook: https://public.tableau.com/app/profile/ipsita.pattanaik6967/viz/CitiBikeAnalysisNYC_17108099768530/Gender?publish=yes
 ## Background
 
 ![Citi-Bikes](citi-bike-station-bikes.jpg)
